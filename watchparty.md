@@ -3,4 +3,4 @@
 Eine erklärung.
 
 ## Amazon
-[Amazon](https://amzn.eu/65Vqf3v)
+<a href="https://amzn.eu/65Vqf3v" target="_blank">Amazon</a>
