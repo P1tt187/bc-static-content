@@ -7,13 +7,13 @@ To be able to watch one of the films you need a subscription to one of the servi
 Teleparty is required for Netflix.
 
 ## Howto Netflix
-https://www.youtube.com/watch?v=IgNGiSWaX_k
+<a href="https://www.youtube.com/watch?v=IgNGiSWaX_k" target="_blank">https://www.youtube.com/watch?v=IgNGiSWaX_k</a>
 
 ## Netflix
-<a href="https://www.tele.pe/netflix/8df6a2fd0b5cb025?s=s175" target="_blank">Blade Runner 2049</a>
+<a href="https://www.tele.pe/netflix/54b5ab771fef1f9f?s=s154" target="_blank">Blade Runner 2049</a>
 
 ## Amazon
-<a href="https://amzn.eu/g4M1Jk5" target="_blank">Yesterday</a>
+<a href="https://amzn.eu/64JdVoN" target="_blank">Yesterday</a>
 
 ## Disney Plus
-<a href="https://www.disneyplus.com/groupwatch/59c1e7e1-926d-4f00-8e75-e8e744ff4d0f" target="_blank">Good Morning Vietnam</a>
+<a href="https://www.disneyplus.com/groupwatch/e0b3e6a3-4768-4c88-8a93-03a71972060c" target="_blank">Good Morning Vietnam</a>
